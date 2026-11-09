@@ -1,0 +1,47 @@
+[
+  {
+    "id_peluang": "138",
+    "nama": "Kerang Darah",
+    "lon_raw": "",
+    "lat_raw": "2.467289818083591",
+    "province_raw": "",
+    "district_raw": "",
+    "reason": "missing_or_invalid_coordinate"
+  },
+  {
+    "id_peluang": "145",
+    "nama": "PROYEK BUDIDAYA UDANG VANAME (SHRIMP ESTATE) di Kabupaten Sukamara",
+    "lon_raw": "",
+    "lat_raw": "",
+    "province_raw": "Kalimantan Tengah",
+    "district_raw": "",
+    "reason": "missing_or_invalid_coordinate"
+  },
+  {
+    "id_peluang": "233",
+    "nama": "Pembuatan Pabrik Minyak Goreng",
+    "lon_raw": "",
+    "lat_raw": "",
+    "province_raw": "Bengkulu",
+    "district_raw": "",
+    "reason": "missing_or_invalid_coordinate"
+  },
+  {
+    "id_peluang": "105",
+    "nama": "Pembangunan Pelabuhan Barang Bebatu",
+    "lon_raw": "",
+    "lat_raw": "33152.8",
+    "province_raw": "Kalimantan Utara",
+    "district_raw": "",
+    "reason": "missing_or_invalid_coordinate"
+  },
+  {
+    "id_peluang": "106",
+    "nama": "Budidaya Ternak Sapi Pedaging",
+    "lon_raw": "",
+    "lat_raw": "43459.9",
+    "province_raw": "Sulawesi Selatan",
+    "district_raw": "",
+    "reason": "missing_or_invalid_coordinate"
+  }
+]

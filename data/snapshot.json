@@ -1,0 +1,19 @@
+{
+  "packaged_utc": "2026-11-09T09:12:58.013757+00:00",
+  "source_checked_at_utc": "2026-11-09T08:01:37.085772+00:00",
+  "quality_audited_utc": null,
+  "source_record_count": 185,
+  "mapped_project_count": 180,
+  "missing_project_coordinate_count": 5,
+  "commodity_feature_count": 142,
+  "project_shared_coordinate_group_count": 2,
+  "api_pagination_status": "all_reported_pages_reached",
+  "source_api_endpoint": "https://regionalinvestment.bkpm.go.id/be/peluang/peluang_investasi_wilayah",
+  "source_commodity_endpoint": "https://regionalinvestment.bkpm.go.id/data/komoditas.geojson",
+  "warnings": [
+    "Coordinates are not field-validated sites",
+    "Opportunity values are not LKPM realisations",
+    "Five missing-coordinate projects are non-spatial records, not inferred points",
+    "External CDN/basemap requires internet; local GeoJSON is packaged"
+  ]
+}
